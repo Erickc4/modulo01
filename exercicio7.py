@@ -1,0 +1,6 @@
+altura = float (input("Qual a altura ?"))
+largura = float (input("Qual a largura? "))
+c= (altura*largura)
+d= (c*2)
+print ("A area do quadrado e", c)
+print ("O dobro da area do quadrado e", d)
